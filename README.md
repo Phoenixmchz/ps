@@ -12,7 +12,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/mchz13579/phnx
+git clone https://github.com/mchz13579/ps
 cd phinixstore_bot
 npm install
 npm update
@@ -63,7 +63,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/mchz13579/phnx
+git clone https://github.com/mchz13579/ps
 cd phinixstore_bot
 npm install
 npm update
